@@ -1,4 +1,5 @@
 mountpoints:
 #  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
-  /:  https://adobe-my.sharepoint.com/:f:/p/shamlow/Ekw4KISZz7NOtcKflqzEBt0B5Bjn3m9Gq69HapEDcdk64Q
+#  /:  https://adobe-my.sharepoint.com/:f:/p/shamlow/Ekw4KISZz7NOtcKflqzEBt0B5Bjn3m9Gq69HapEDcdk64Q
+  /:  https://adobe-my.sharepoint.com/personal/shamlow_adobe_com/Documents/EDS/weather
 
